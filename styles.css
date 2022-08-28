@@ -1,0 +1,27 @@
+h1 {
+  color:darkgreen;
+  font-family: Papyrus, 'Times New Roman';
+  text-align: center;
+  background-color:tomato;
+  }
+
+.item {
+  font-family: Papyrus, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+  color:red;
+  font-size: large;
+}
+
+h2 {
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 200px;
+  }
+
